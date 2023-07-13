@@ -1,7 +1,6 @@
 import Task from "@/components/Task";
-import TaskHeading from "@/components/TaskHeading";
 import InputTask from "@/components/InputTask";
-// import store from "@/store";
+
 import { useSelector } from "react-redux";
 
 export default function Home() {
